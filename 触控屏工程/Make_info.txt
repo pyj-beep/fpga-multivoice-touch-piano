@@ -1,0 +1,34 @@
+﻿2026/10/30 17:50:38
+Start to make bin...
+ndl_Ani_number:0
+Get UI message
+multi-language number:1
+
+Get page widget data...
+Page_Number:1
+
+Page 0 backImageW.H = 800, 480
+page_cfg_name: D:/PianoScreenProject/Plugin/Page0000.cfg
+Page picture Name: 0000_FPGA_Piano_octave.jpg
+Page color: RGBColor(0,0,0)
+Page User Name: FPGA电子钢琴
+Make Page_para_all.bin
+
+
+
+
+Page_Number: 1
+
+Picture list----
+0000_FPGA_Piano_octave.jpg
+Picture list----
+Page0: 0000_FPGA_Piano_octave.jpg
+Scan image:0000_FPGA_Piano_octave.jpg ...
+
+Make Picture_all.bin
+
+Icon_number: 0
+needle Icon_number: 0
+Make icon_all.bin
+
+Make UartTFT-II_Flash.bin
